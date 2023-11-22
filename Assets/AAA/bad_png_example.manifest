@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2236322113
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c6b9396eefc2ba50790a520724484fbc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 71e2d347cca8d61795b915d614643642
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 28312c7093620f940b6a2294a8b57afa, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AAA/Copy.prefab
+Dependencies: []

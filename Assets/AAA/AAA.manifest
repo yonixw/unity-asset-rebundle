@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 4037447812
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: bad_png_example
+      Dependencies: {}
